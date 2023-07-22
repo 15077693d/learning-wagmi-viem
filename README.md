@@ -1,3 +1,5 @@
+I make a next js app for learn wagmi and viem by answering question in wagmi and viem discussion session.
+
 This is a [Next.js](https://nextjs.org) + [wagmi](https://wagmi.sh) project bootstrapped with [`create-wagmi`](https://github.com/wagmi-dev/wagmi/tree/main/packages/create-wagmi)
 
 # Getting Started
