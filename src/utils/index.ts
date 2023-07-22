@@ -6,6 +6,7 @@ import { decodeEventLog } from "viem";
 /**
  * Writes a contract and gets event logs.
  * @returns {Promise<Array>} An array containing the logs and decoded event logs.
+ * @answer https://github.com/wagmi-dev/viem/discussions/916
  */
 export const writeContractAndGetEventLogs = async () => {
   const walletClient = await getWalletClient(avalancheFuji);
